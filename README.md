@@ -24,3 +24,5 @@ What is the onboarding process like?
 ### Technical/Position
 
 What type of problems will I be solving to begin with?
+
+What would a typical day for someone in [position] look like?
