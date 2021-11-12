@@ -1,10 +1,14 @@
 # Interview Questions
 
+You're a developer on the job hunt. What sorts of interview questions can you expect? What sorts of questions should you ask? Below are some questions I've encountered in actual interviews for dev positions, and some suggestions for questions to ask your interviewer(s).
+
 ## Start with [ichbindev's excellent "Questions for Me" repo](https://github.com/ichbindev/QuestionsForMe)
 
 Then....
 
 ## Questions *from* the interviewer(s)
+
+### **Note**: It's not a bad idea to frame your responses using the [STAR method](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629): Situation, Task, Action, Result
 
 Can you describe a time when attention to detail was important, and what was the result?
 
@@ -12,8 +16,6 @@ Can you tell us about a time when you were given feedback that was genuinely imp
 
 
 ## Questions *for* the interviewer(s)
-
-**Note**: It's not a bad idea to frame your responses using the [STAR method](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629): Situation, Task, Action, Result
 
 ### Company/Organization
 
