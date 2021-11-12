@@ -10,6 +10,10 @@ Then....
 
 ### **Note**: It's not a bad idea to frame your responses using the [STAR method](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629): Situation, Task, Action, Result
 
+Tell us a little about your background.
+
+Why did you apply for this position?
+
 Can you describe a time when attention to detail was important, and what was the result?
 
 Can you tell us about a time when you were given feedback that was genuinely impactful? What was the feedback, and what was the result?
