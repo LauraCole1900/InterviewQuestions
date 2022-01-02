@@ -29,14 +29,36 @@ What is the response to mistakes?
 
 What is the onboarding process like?
 
+What is the newest technology/tool/framework that your team has implemented?
+
+Which software development methodology does your team utilize?
+
+What is the company's goal for the product/service offered?
+
+What do you enjoy about working at this company?
+
+Are there mentorship opportunities with this company (both as a mentor and as a mentee)?
+
 ### Technical/Position
 
 What type of problems will I be solving to begin with?
 
 What would a typical day for someone in [position] look like?
 
-What does the team structure look like? Who would I report to if I were in this position?
+What does the team structure look like? Who would I report to if I were in this position? How does this role fit into that structure?
+
+How is success measured in this role?
+
+How are design decisions made on your team?
+
+What are the growth opportunities like in this position?
+
+How flexible are the hours and location of this position?
 
 ## What did I miss?
 
 Have questions about what I'm doing? Have questions to add? Please open an issue, specifying whether it's a question *for me*, a question *from* and interviewer, or a question *for* an interviewer!
+
+## Credits
+
+Daniele Serfilippi's Career Tips posts, especially [this one](https://www.linkedin.com/posts/daniele-serfilippi_interview-activity-6864125563381022720-FEnC)
