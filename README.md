@@ -18,6 +18,47 @@ Can you describe a time when attention to detail was important, and what was the
 
 Can you tell us about a time when you were given feedback that was genuinely impactful? What was the feedback, and what was the result?
 
+### The following are suggested questions from [ClearCompany's Blog](https://blog.clearcompany.com/unique-candidate-screening-questions?utm_campaign=*TOFU%20-%20ATS&utm_content=185677395&utm_medium=social&utm_source=linkedin&hss_channel=lcp-2944518)
+
+What do you like most about your current position?
+
+How did your last job fail to meet your expectations?
+
+Why are you a good fit for this position?
+
+Why do you think you're a good fit for this company?
+
+Which accomplishments are you most proud of?
+
+The team you’re working on will be completing this project by [deadline]. How do you see yourself becoming involved?
+
+What is your ideal work environment?
+
+Everyone has unique strengths. On your would-be team, we have an abundance of [insert team dynamic or strength here]. What could your skills add to that environment?
+
+How would your past experience help you excel in this position?
+
+What's the most important lesson you learned in your previous positions?
+
+Who would you consider a role model, and why?
+
+Tell me about a lesson you learned from a colleague you didn’t enjoy working with.
+
+What do you do best?
+
+What, if anything, do you struggle with at work?
+
+What keeps you motivated to come to work every day?
+
+How do you communicate best, and how do you prefer to receive feedback?
+
+What are your professional goals?
+
+Do you feel there is anything holding you back from achieving your professional goals?
+
+Tell me about a time when you overcame a challenge at work.
+
+Tell me about a time you had a colleague’s back.
 
 ## Questions *for* the interviewer(s)
 
@@ -31,13 +72,13 @@ What is the onboarding process like?
 
 What is the newest technology/tool/framework that your team has implemented?
 
+Are there mentorship opportunities with this company (both as a mentor and as a mentee)?
+
 Which software development methodology does your team utilize?
 
 What is the company's goal for the product/service offered?
 
 What do you enjoy about working at this company?
-
-Are there mentorship opportunities with this company (both as a mentor and as a mentee)?
 
 ### Technical/Position
 
@@ -62,3 +103,5 @@ Have questions about what I'm doing? Have questions to add? Please open an issue
 ## Credits
 
 Daniele Serfilippi's Career Tips posts, especially [this one](https://www.linkedin.com/posts/daniele-serfilippi_interview-activity-6864125563381022720-FEnC)
+
+ClearCompany's blog especially [this post](https://blog.clearcompany.com/unique-candidate-screening-questions?utm_campaign=*TOFU%20-%20ATS&utm_content=185677395&utm_medium=social&utm_source=linkedin&hss_channel=lcp-2944518)
